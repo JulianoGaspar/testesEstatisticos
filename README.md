@@ -3,4 +3,4 @@
 
 Síntese dos testes estatísticos (introdutórios) que podem ser usados em uma análise de dados em saúde.
 
-![App Screenshot](QuaisTestesEstatisticosUsar2.png)
+![App Screenshot](QualTesteEstatisticoUsar.png)
